@@ -1,0 +1,258 @@
+
+Eddy.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+2222
+  rotate: true
+  xy: 819, 215
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 387, 82
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+47
+  rotate: false
+  xy: 426, 122
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+472
+  rotate: true
+  xy: 890, 215
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+478
+  rotate: true
+  xy: 346, 87
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+48
+  rotate: true
+  xy: 752, 210
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+482
+  rotate: true
+  xy: 276, 95
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+49
+  rotate: false
+  xy: 752, 175
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+499
+  rotate: false
+  xy: 387, 109
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+Ah
+  rotate: false
+  xy: 798, 172
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+Aw
+  rotate: false
+  xy: 427, 89
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 862, 190
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+ao sau
+  rotate: true
+  xy: 571, 156
+  size: 53, 87
+  orig: 53, 87
+  offset: 0, 0
+  index: -1
+bọng mắt
+  rotate: true
+  xy: 475, 140
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+bọng mắt copy
+  rotate: false
+  xy: 2, 2
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+cheeks copy
+  rotate: false
+  xy: 487, 163
+  size: 82, 91
+  orig: 82, 91
+  offset: 0, 0
+  index: -1
+co truoc
+  rotate: false
+  xy: 276, 142
+  size: 109, 112
+  orig: 109, 112
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 571, 211
+  size: 111, 43
+  orig: 111, 43
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 958, 210
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+long may p
+  rotate: false
+  xy: 660, 181
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+long may t
+  rotate: false
+  xy: 862, 178
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+ma
+  rotate: false
+  xy: 917, 199
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+mi phải
+  rotate: false
+  xy: 254, 78
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+mi trái
+  rotate: false
+  xy: 900, 197
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+pngegg
+  rotate: false
+  xy: 387, 158
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+ron
+  rotate: true
+  xy: 427, 82
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+tai p
+  rotate: false
+  xy: 171, 15
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+tai t
+  rotate: true
+  xy: 684, 190
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+tay ao
+  rotate: false
+  xy: 828, 178
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 96
+  size: 158, 272
+  orig: 158, 272
+  offset: 0, 0
+  index: -1
+toc
+  rotate: false
+  xy: 660, 196
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+tròng trắng
+  rotate: false
+  xy: 254, 61
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+tròng trắng trái
+  rotate: false
+  xy: 254, 45
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+tròng đen phải
+  rotate: false
+  xy: 487, 148
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+tròng đen trái
+  rotate: true
+  xy: 171, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+voi
+  rotate: false
+  xy: 2, 13
+  size: 167, 81
+  orig: 167, 81
+  offset: 0, 0
+  index: -1

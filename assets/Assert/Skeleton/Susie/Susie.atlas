@@ -1,0 +1,314 @@
+
+Susie.png
+size: 256, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: true
+  xy: 244, 118
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 169, 71
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+2 default
+  rotate: true
+  xy: 229, 69
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 46, 19
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+59
+  rotate: true
+  xy: 227, 137
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+594
+  rotate: false
+  xy: 218, 65
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 2, 190
+  size: 167, 67
+  orig: 167, 67
+  offset: 0, 0
+  index: -1
+Layer 2 copy
+  rotate: false
+  xy: 61, 19
+  size: 118, 45
+  orig: 118, 45
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 2, 28
+  size: 160, 57
+  orig: 160, 57
+  offset: 0, 0
+  index: -1
+Layer soc3
+  rotate: false
+  xy: 61, 66
+  size: 106, 122
+  orig: 106, 122
+  offset: 0, 0
+  index: -1
+MMMM
+  rotate: true
+  xy: 217, 2
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+Oh
+  rotate: false
+  xy: 196, 196
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Shape 19
+  rotate: false
+  xy: 219, 322
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+Shape 192
+  rotate: false
+  xy: 211, 154
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 181, 54
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+chan p
+  rotate: false
+  xy: 141, 256
+  size: 9, 101
+  orig: 9, 101
+  offset: 0, 0
+  index: -1
+chan t
+  rotate: true
+  xy: 46, 9
+  size: 8, 97
+  orig: 8, 97
+  offset: 0, 0
+  index: -1
+cheeks
+  rotate: false
+  xy: 218, 93
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dai vay
+  rotate: false
+  xy: 152, 261
+  size: 74, 16
+  orig: 74, 16
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 145, 2
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+duoi4
+  rotate: true
+  xy: 228, 235
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+flower
+  rotate: true
+  xy: 196, 232
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+kep toc
+  rotate: true
+  xy: 181, 29
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+lo mui
+  rotate: false
+  xy: 152, 279
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+long may
+  rotate: false
+  xy: 243, 100
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+long may p
+  rotate: false
+  xy: 46, 2
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+mi mat
+  rotate: false
+  xy: 218, 114
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+mi mat p
+  rotate: false
+  xy: 219, 44
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+mong chan p
+  rotate: false
+  xy: 227, 162
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+mong chan t
+  rotate: true
+  xy: 181, 4
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+mong p2
+  rotate: false
+  xy: 219, 288
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+mong t
+  rotate: false
+  xy: 223, 199
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: true
+  xy: 169, 138
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+pngegg
+  rotate: false
+  xy: 150, 414
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+sk
+  rotate: false
+  xy: 2, 359
+  size: 146, 151
+  orig: 146, 151
+  offset: 0, 0
+  index: -1
+tay p2
+  rotate: true
+  xy: 141, 196
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+tay t
+  rotate: true
+  xy: 169, 81
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 71, 196
+  size: 68, 161
+  orig: 68, 161
+  offset: 0, 0
+  index: -1
+toc mai
+  rotate: false
+  xy: 2, 2
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+toc sau
+  rotate: true
+  xy: 150, 362
+  size: 50, 101
+  orig: 50, 101
+  offset: 0, 0
+  index: -1
+trong den p
+  rotate: true
+  xy: 219, 29
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+trong den p2
+  rotate: false
+  xy: 211, 138
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+trong trăng
+  rotate: false
+  xy: 237, 50
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+trong trăng p
+  rotate: false
+  xy: 237, 32
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
